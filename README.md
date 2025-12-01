@@ -1,4 +1,4 @@
-# MovieLens Hybrid Recommender System (ALS + TF-IDF)
+# MovieLens Recommender System (ALS + TF-IDF)
 
 ## TL;DR
 
